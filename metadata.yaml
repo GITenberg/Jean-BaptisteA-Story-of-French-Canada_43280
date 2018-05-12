@@ -1,0 +1,33 @@
+_repo: Jean-BaptisteA-Story-of-French-Canada_43280
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Curtis, Dora
+    alias: Curtis, D. (Dora)
+    gutenberg_agent_id: '37920'
+    url: http://www.gutenberg.org/2009/agents/37920
+covers:
+- cover_type: archival
+  image_path: 43280-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Le Rossignol, James Edward
+    alias: Rossignol, James Edward le
+    birthdate: 1866
+    gutenberg_agent_id: '42102'
+    url: http://www.gutenberg.org/2009/agents/42102
+description: ''
+gutenberg_issued: '2013-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French Canadians -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Canada -- Fiction'
+title: 'Jean Baptiste: A Story of French Canada'
+url: http://www.gutenberg.org/ebooks/43280
